@@ -7,15 +7,15 @@ table, th, td{
 }
 
 th{
-    background-color: antiquewhite;
+    background-color: rgb(167, 252, 255);
     width: 120px;
     height: 30px;
 }
 tfoot{
-    background-color: antiquewhite;
+    background-color: rgb(167, 252, 255);
 }
 tr :first-child{
-    background-color: antiquewhite;
+    background-color: rgb(167, 252, 255);
     width: 50px;
     height: 30px;
 }
