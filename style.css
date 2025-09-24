@@ -1,0 +1,21 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+th{
+    background-color: antiquewhite;
+    width: 120px;
+    height: 30px;
+}
+tfoot{
+    background-color: antiquewhite;
+}
+tr :first-child{
+    background-color: antiquewhite;
+    width: 50px;
+    height: 30px;
+}
